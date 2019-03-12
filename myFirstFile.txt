@@ -1,4 +1,6 @@
 hej
-Hej Elin, har du med dig matlåda?
-Hej Patrik, jag tänkte gå ut och äta. Är du på? :) 
+Hej Elin, har du med dig matlÃ¥da?
+Hej Patrik, jag tÃ¤nkte gÃ¥ ut och Ã¤ta. Ã„r du pÃ¥? :) 
 JA visst!
+
+THIS IS A PULL REQUEST
